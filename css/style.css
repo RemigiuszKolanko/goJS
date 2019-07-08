@@ -1,0 +1,12 @@
+#myPalette {
+    width:200px;
+    height:600px;
+    background-color: rgb(235, 182, 240);
+    float: left;
+}
+#myDiagram {
+    width:400px;
+    height:600px;
+    background-color: #DAE4E4;
+    float: left;
+}
